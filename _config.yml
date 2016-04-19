@@ -1,0 +1,28 @@
+name: anthonyfranks
+favicon: null
+layout_spectrum: 0.400233780965209
+typography_spectrum: 0.21790001913905144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7661201546434313
+  lightness: 0.08239787328056991
+  saturation: 0.8369946144521236
+  rhythmicContrast: 0.9587908291723579
+purpose: []
